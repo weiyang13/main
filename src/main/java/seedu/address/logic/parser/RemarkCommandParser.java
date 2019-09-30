@@ -12,7 +12,7 @@ import static seedu.address.logic.parser.CliSyntax.PREFIX_REMARK;
 /**
  * Parses input arguments and creates a new DeleteCommand object
  */
-public class RemarkCommandParser implements Parser {
+public class RemarkCommandParser implements Parser<RemarkCommand> {
 
     /**
      * Parses the given {@code String} of arguments in the context of the RemarkCommand
