@@ -212,10 +212,6 @@
     -fx-background-color: #eceff1;
 }
 
-.list-cell:filled:selected .label {
-    -fx-text-fill: black;
-}
-
 .list-title {
     -fx-font-size: 12px;
     -fx-font-weight: bold;
